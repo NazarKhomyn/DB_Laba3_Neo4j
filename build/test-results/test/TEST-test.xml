@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="test" tests="14" skipped="0" failures="0" errors="0" timestamp="2017-11-16T20:09:34" hostname="BOGUS-ПК" time="9.987">
+  <properties/>
+  <testcase name="test_3a" classname="test" time="0.01"/>
+  <testcase name="test_3b" classname="test" time="0.01"/>
+  <testcase name="test_3c" classname="test" time="0.003"/>
+  <testcase name="test_3d" classname="test" time="0.006"/>
+  <testcase name="test_3e" classname="test" time="0.006"/>
+  <testcase name="test_3f" classname="test" time="0.002"/>
+  <testcase name="test_3g" classname="test" time="0.004"/>
+  <testcase name="test_3h" classname="test" time="0.003"/>
+  <testcase name="test_3j" classname="test" time="0.004"/>
+  <testcase name="test_4a" classname="test" time="0.014"/>
+  <testcase name="test_4b" classname="test" time="0.011"/>
+  <testcase name="test_4c" classname="test" time="0.004"/>
+  <testcase name="test_4d" classname="test" time="0.003"/>
+  <testcase name="test_4i" classname="test" time="0.005"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
