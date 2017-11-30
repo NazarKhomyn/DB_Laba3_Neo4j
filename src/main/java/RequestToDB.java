@@ -236,15 +236,5 @@ public class RequestToDB
         }
         return arr.toString();
     }
-
-  //  public void printResult(String result){ System.out.println(result); }
-
-//    public static void close() {
-//        driver.close();
-//    }
-
-    public static void main(String... args)
-    {
-
-    }
+    
 }
